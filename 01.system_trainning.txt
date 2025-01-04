@@ -1,6 +1,6 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 Bạn đọc những thông tin bên dưới để trả lời cho khách hàng của tôi:
- KIỂM TRA HỒ SƠ KÝ
+  KIỂM TRA HỒ SƠ KÝ
 HỢP ĐỒNG THUÊ NHÀ THUỘC SỞ HỮU NHÀ NƯỚC THEO LUẬT NHÀ Ở NĂM 2023 VÀ NGHỊ ĐỊNH 95/2024/NĐ-CP
 
 Bước 1: Kiểm tra thành phần hồ sơ theo quy định
@@ -112,7 +112,8 @@ d) Tờ khai xác định diện tích sử dụng nhà ở được thực hi�
 đ) Hồ sơ quy định tại khoản này được lập thành 02 bản, trong đó 01 bản lưu tại cơ quan cho thuê nhà ở, 01 bản giao cho bên thuê nhà ở.
 Bước 6: Xác định giá thuê nhà ở cũ thuộc tài sản công (Điều 66 – Nghị định 95)
 1.	Đối với nhà ở được bố trí sử dụng trước ngày 05 tháng 7 năm 1994 (ngày ban hành Nghị định số 61/CP) mà chưa được cải tạo, xây dựng lại thì giá thuê nhà ở được xác định theo giá cho thuê nhà ở do Ủy ban nhân dân cấp tỉnh ban hành theo quy định tại khoản 3 Điều 66 NĐ 95 (Phụ lục VI- NĐ 95):
-GIÁ THUÊ NHÀ = GIÁ CHUẨN x (1+ K1 + K2 + K3) x KTLCB x KTĐBT x DIỆN TÍCH SỬ DỤNG NHÀ
+ĐƠN GIÁ CHO THUÊ 1M2 DIỆN TÍCH SỬ DỤNG NHÀ Ở = GIÁ CHUẨN x (1+ K1 + K2 + K3+K4) x KTLCB x KTĐBT (ĐỒNG/M2 SỬ DỤNG/THÁNG)
+TIỀN THUÊ NHÀ PHẢI TRẢ HÀNG THÁNG = ĐƠN GIÁ CHO THUÊ 1M2 DIỆN TÍCH SỬ DỤNG NHÀ Ở x DIỆN TÍCH SỬ DỤNG NHÀ
 I. Bảng giá chuẩn cho thuê nhà ở cũ thuộc tài sản công mà chưa được cải tạo, xây dựng lại được quy định như sau:
 Loại nhà	Biệt thự (hạng)	Nhà ở thông thường (cấp)
 Cấp, hạng nhà	I	II	III	IV	I	II	III	IV
@@ -147,7 +148,7 @@ b) Hệ số vị trí xét theo các khu vực trong đô thị (K2)
 c) Hệ số tầng cao (K3)
 d) Hệ số điều kiện hạ tầng kỹ thuật (K4)
 Trị số K1, K2, K3 và K4 được quy định thống nhất ở các biểu số 1, 2, 3 và 4 của Thông tư này như sau:
-Biểu số 1: Hệ số cấp đô thị
+Biểu số 1: Hệ số cấp đô thị (K1)
 Loại đô thị 
 Hệ số	Đặc biệt và loại I	II	III	IV	V
 Trị số K1	0,00	-0,05	-0,10	-0,15	-0,20
@@ -175,7 +176,7 @@ Các điều kiện hạ tầng kỹ thuật chủ yếu (gắn liền với nh�
 - Điều kiện hạ tầng kỹ thuật đạt loại kém khi nhà ở chỉ có điều kiện 2 hoặc điều kiện 3 hoặc không đảm bảo cả 3 điều kiện trên.
 - KTLCB là tỷ lệ tăng lương cơ bản được xác định bởi mức lương tối thiểu do Chính phủ quy định tại thời điểm hiện hành so với lương tối thiểu được Chính phủ quy định năm 2008, cụ thể:
 + Lương tối thiểu được Chính phủ quy định năm 2008 (NĐ 166/2007/NĐ-CP): 540.000 đồng/tháng
-+ Mức lương tối thiểu theo thời gian
++ Mức lương tối thiểu theo thời gian:
 ✔	Từ 01/7/2024 là 2.340.000 đồng/tháng, áp dụng KTLCB = 1.800.000/540.000 = 4.33 
 ✔	Từ 01/7/2023 là 1.800.000 đồng/tháng, áp dụng KTLCB = 1.800.000/540.000 = 3.33 
 ✔	Từ 01/7/2019 là 1.490.000 đồng/thán, áp dụng KTLCB = 1.490.000/540.000 = 2.76
@@ -184,11 +185,110 @@ Các điều kiện hạ tầng kỹ thuật chủ yếu (gắn liền với nh�
 ✔	Đối với nhà ở, nhà không có nguồn gốc là nhà ở nhưng được bố trí sử dụng trước ngày 05 tháng 7 năm 1994 (ngày ban hành Nghị định số 61/CP của Chính phủ về mua bán và kinh doanh nhà ở) mà chưa được cải tạo, xây dựng lại: KTĐBT = 1
 ✔	Đối với nhà ở quy định tại Khoản 1 Điều này đã được Nhà nước cải tạo, xây dựng lại; nhà ở hoặc nhà không có nguồn gốc là nhà ở nhưng được bố trí sử dụng từ ngày 05 tháng 7 năm 1994 đến trước ngày 19 tháng 01 năm 2007 (ngày ban hành Quyết định số 09/2007/QĐ-TTg của Thủ tướng Chính phủ về việc sắp xếp lại, xử lý nhà, đất thuộc sở hữu Nhà nước) thì áp dụng giá thuê như đối với nhà ở xã hội thuộc sở hữu nhà nước: KTĐBT = 1.5
 ✔	Giá cho thuê nhà ở cũ tạm áp dụng cho các trường hợp được bố trí sử dụng từ ngày 19 tháng 01 năm 2007: KTĐBT = 2
-ii)	 Nguyên tắc áp dụng các hệ số
+ii)	 Nguyên tắc áp dụng các hệ số:
 Biệt thự các hạng và nhà ở các cấp áp dụng tối đa không vượt quá 4 hệ số đã quy định trên đây, dấu (+) tăng thêm, dấu (-) giảm đi.
-2.	Đối với nhà ở được bố trí sử dụng từ trước ngày 19 tháng 01 năm 2007 mà đã được Nhà nước cải tạo, xây dựng lại hoặc nhà ở không có nguồn gốc là nhà ở nhưng được bố trí sử dụng từ ngày 05 tháng 7 năm 1994 đến trước ngày 19 tháng 01 năm 2007 thì giá thuê nhà ở được áp dụng như giá thuê nhà ở xã hội thuộc tài sản công.
-3.	Căn cứ vào thời gian đã sử dụng, mức độ hư hỏng, xuống cấp của nhà ở cho thuê, mức độ mà người thuê nhà đã đầu tư sửa chữa các hư hỏng của nhà ở, Ủy ban nhân dân cấp tỉnh quyết định điều chỉnh giảm giá cho thuê nhà ở nhưng mức giảm tối đa không được vượt quá 30% số tiền phải trả theo giá chuẩn quy định tại Phụ lục VI ban hành kèm theo Nghị định 95
-Bước 7: Tính miễn giảm tiền thuê nhà (Điều 67 – Nghị định 95)
+2.	Đối với nhà ở được bố trí sử dụng từ trước ngày 19 tháng 01 năm 2007 mà đã được Nhà nước cải tạo, xây dựng lại hoặc nhà ở không có nguồn gốc là nhà ở nhưng được bố trí sử dụng từ ngày 05 tháng 7 năm 1994 đến trước ngày 19 tháng 01 năm 2007 thì giá thuê nhà ở được áp dụng như giá thuê nhà ở xã hội thuộc tài sản công:
+ĐƠN GIÁ CHO THUÊ 1M2 DIỆN TÍCH SỬ DỤNG NHÀ Ở (NHƯ ĐỐI VỚI NHÀ Ở XÃ HỘI) = GIÁ CHUẨN x KTLCB x 1.5 x DIỆN TÍCH SỬ DỤNG NHÀ
+TIỀN THUÊ NHÀ PHẢI TRẢ HÀNG THÁNG = ĐƠN GIÁ CHO THUÊ 1M2 DIỆN TÍCH SỬ DỤNG NHÀ Ở x DIỆN TÍCH SỬ DỤNG NHÀ
+3.	Giá thuê nhà ở áp dụng cho các trường hợp được bố trì sử dụng từ 19 tháng 01 năm 2007:
+ĐƠN GIÁ CHO THUÊ 1M2 DIỆN TÍCH SỬ DỤNG NHÀ Ở = GIÁ CHUẨN x KTLCB x 3
+TIỀN THUÊ NHÀ PHẢI TRẢ HÀNG THÁNG = ĐƠN GIÁ CHO THUÊ 1M2 DIỆN TÍCH SỬ DỤNG NHÀ Ở x DIỆN TÍCH SỬ DỤNG NHÀ
+4.	Căn cứ vào thời gian đã sử dụng, mức độ hư hỏng, xuống cấp của nhà ở cho thuê, mức độ mà người thuê nhà đã đầu tư sửa chữa các hư hỏng của nhà ở, Ủy ban nhân dân cấp tỉnh quyết định điều chỉnh giảm giá cho thuê nhà ở nhưng mức giảm tối đa không được vượt quá 30% số tiền phải trả theo giá chuẩn quy định tại Phụ lục VI ban hành kèm theo Nghị định 95
+Việc giảm giá cho thuê nhà ở cũ chỉ được thực hiện đối với trường hợp bên thuê nhà có xin phép về việc tự bỏ kinh phí (không yêu cầu hoàn lại) sửa chữa các hư hỏng của nhà đang thuê và được cơ quan quản lý nhà đồng ý bằng văn bản, phần nhà ở được cải tạo vẫn thuộc tài sản công.
+Tỷ lệ phần trăm (%) điều chỉnh giảm giá cho thuê nhà ở cũ tương úng với tỷ lệ phần trăm (%) chất lượng còn lại của nhà được xác định như sau:
+1. Giảm 05% số tiền phải trả theo giá cho thuê quy định khi đáp ứng các điều kiện:
+a)	Mức độ hư hỏng, xuống cấp của nhà cho thuê: Chất lượng còn lại của nhà ở cho thuê có tỷ lệ từ 60% đến dưới 70%.
+b)	Người thuê nhà đã tự bỏ kinh phí để sửa chữa ít nhất 01 trong 04 kết cấu chính của nhà thuê, nâng mức tỷ lệ chất lượng còn lại của nhà đạt tỷ lệ trên 80%.
+2.	Giảm 10% số tiền phải trả theo giá cho thuê quy định khi đáp ứng các điều kiện:
+a)	Mức độ hư hỏng, xuống cấp của nhà cho thuê: Chất lượng còn lại của nhà ở cho thuê có tỷ lệ từ 50% đến dưới 60%.
+b)	Người thuê nhà đã tự bỏ kinh phí để sửa chữa ít nhất 01 trong 04 kết cấu chính của nhà thuê, nâng mức tỷ lệ chất lượng còn lại của nhà đạt tỷ lệ trên 80%.
+Tỷ lệ chất lượng còn lại của nhà ở cũ thuộc tài sản công được xác định đồng thời theo 02 phương pháp sau đây:
+- Phương pháp phân tích kinh tế - kỹ thuật: Tỷ lệ chất lượng còn lại của nhà ở được xác định căn cứ vào tỷ lệ chất lượng còn lại của các kết cấu chính (móng, khung, cột, tường, nền, sàn, kết cấu đỡ mái và mái) tạo nên nhà ở đó và tỷ lệ giá trị của các kết cấu chính đó so với tổng giá trị của ngôi nhà. Công thức tính như sau:
+ 
+Trong đó:
+i: số thứ tự của kết cấu chính
+n: số các kết cấu chính.
+Tỷ lệ chất lượng còn lại của kết cấu chính do Hội đồng xác định giá bán nhà ở hoặc đơn vị quản lý vận hành nhà ở (nếu được giao) xác định căn cứ vào thiết kế ban đầu, thiết kế cải tạo, nâng cấp do cơ quan quản lý nhà đã thực hiện và thực trạng của các kết cấu đó theo các chỉ tiêu hướng dẫn tại bảng 01 mục 3 Phụ lục này.
+Việc xác định tỷ lệ giá trị của các kết cấu chính so với tổng giá trị của ngôi nhà thực hiện theo hướng dẫn tại bảng 02 mục 3 của Phụ lục này.
+Trong trường hợp nhà ở hoặc căn hộ có thiết kế đặc biệt thì Hội đồng xác định giá bán nhà ở hoặc đơn vị quản lý vận hành nhà ở (nếu được giao) căn cứ vào thiết kế ban đầu, thiết kế cải tạo, nâng cấp do cơ quan quản lý nhà đã thực hiện và thực trạng của nhà hoặc căn hộ đó để xác định tỷ lệ chất lượng còn lại và tỷ lệ giá trị của các kết cấu khác cho phù hợp thực tế.
+Trường hợp nhà ở không còn hồ sơ thiết kế thì thực hiện theo phương pháp thống kê - kinh nghiệm quy định tại điểm b mục 1 của Phụ lục này.
+- Phương pháp thống kê - kinh nghiệm: Tỷ lệ chất lượng còn lại của nhà ở cũ được xác định căn cứ vào thực trạng của nhà, niên hạn sử dụng và thời gian đã sử dụng của nhà ở đó.
+Việc phân cấp nhà ở thực hiện theo quy định tại Điều 72 của Nghị định này, trên cơ sở thiết kế ban đầu, thiết kế cải tạo, nâng cấp do cơ quan quản lý nhà đã thực hiện.
+2. Kết quả xác định giá trị còn lại của nhà ở cũ ghi theo Mẫu số 01 của Phụ lục IX ban hành kèm theo Nghị định này.
+3. Các bảng hướng dẫn xác định tỷ lệ còn lại của nhà ở:
+
+Bảng 01
+BẢNG HƯỚNG DẪN XÁC ĐỊNH TỶ LỆ CÒN LẠI CỦA CÁC KẾT CẤU CHÍNH	
+Số TT	Kết cấu	Tỷ lệ còn lại
+		> 80%	70% + 80%	60% + 70%	50% + 60%	40% + 50%	< 40%
+1	2	3	4	5	6	7	8
+1	Kết cấu bằng bê-tông cốt thép (khung, cột, đầm, sàn, trần, tấm bê-tông...)	Lớp trát bảo vệ bong tróc, bê-tông bắt đầu bị nứt	Bê-tông nứt, cốt thép bắt đầu rỉ	Bê-tông có nhiều vết nứt, cốt thép có chỗ bị cong vênh	Kết cấu bắt đầu cong vênh	Bê-tông nứt rạn nhiều chỗ, cốt thép bị đứt nhiều chỗ	Kết cấu mất khả năng chống đỡ; cần sửa chữa hoặc phá bỏ
+2	Kết cấu bằng gạch (móng, cột, tường...)	Lớp trát bảo vệ bắt đầu bong tróc, có vết nứt nhỏ	Vết nứt rộng, sâu tới gạch	Lớp trát bảo vệ bong tróc nhiều, nhiều chỗ có vết nứt rộng	Nhiều chỗ gạch bắt đầu mục, kết cấu bị thấm nước	Các vết nứt thông suốt bề mặt, có chỗ bị cong vênh, đổ	Hầu hết kết cấu bị rạn, nứt; nhiều chỗ bị đổ hay hỏng hoàn toàn
+3	Kết cấu bằng gỗ hoặc sắt (kết cấu dỡ mái)	Bắt đầu bị mối mọt hoặc bị rỉ	Bị mối mọt hoặc bị rỉ nhiều chỗ	Bị mục hoặc rỉ ăn sâu nhiều chỗ, kết cấu bắt đầu bị cong vênh	Kết cấu bị cong vênh nhiều, có chỗ bắt đầu bị đứt	Kết cấu bị cong vênh nhiều, nhiều chỗ đứt rời	Nhiều chỗ đứt rời, mất khả năng chống đỡ; cần sửa chữa hoặc phá bỏ
+4	Mái bằng ngói, tôn, fibro xi-măng	Chất liệu lợp mái bị hư hỏng nhà bị dột, tiêu chuẩn đánh giá dựa trên mức độ hư hỏng nặng hay nhẹ và diện tích hư hỏng của mái:
+		< 20% diện tích mái bị hư hỏng	20 - 30% diện tích mái bị hư hỏng	30 - 40% diện tích mái bị hư hỏng	40 - 50% diện tích mái bị hư hỏng	50 - 60% diện tích mái bị hư hỏng	> 60% diện tích mái bị hư hỏng
+Ghi chú: Kết cấu 1 và 2, ngoài các tiêu chuẩn trên còn phải căn cứ vào diện tích bị hư hỏng để đánh giá
+Bảng 02
+BẢNG TỶ LỆ GIÁ TRỊ CỦA CÁC KẾT CẤU CHÍNH SO VỚI TỔNG GIÁ TRỊ CỦA NGÔI NHÀ
+Loại nhà ở	Tỷ lệ giá trị các kết cấu chính (%)
+	Móng	Khung cột	Tường	Nền, sàn	Kết cấu dỡ máu	Mái
+1	2	3	4	5	6	7
+I. NHÀ XÂY GẠCH						
+1 tầng cấp 4 không có khu phụ riêng	10	-	15	10	10	16
+1 tầng cấp 4 có khu phụ riêng	10	-	18	5	9	17
+1 tầng cấp 2-3 không có khu phụ riêng	10	-	15	10	9	16
+1 tầng cấp 2-3 có khu phụ riêng	10	-	18	6	9	16
+2 tầng mái ngói không có khu phụ riêng	10	-	16	12	8	16
+2 tầng mái ngói có khu phụ riêng	10	-	18	13	6	10
+2 tầng mái bằng không có khu phụ riêng	10	-	16	10	-	26
+2 tầng mái bằng có khu phụ riêng	10	-	18	13	-	16
+3 tầng mái ngói không có khu phụ riêng	10	-	16	14	6	13
+3 tầng mái ngói có khu phụ riêng	10	-	16	15	4	11
+3 tầng mái bằng không có khu phụ riêng	9	-	16	10	-	22
+3 tầng mái bằng có khu phụ riêng	9	-	18	14	-	13
+4 tầng mái ngói không có khu phụ riêng	9	-	20	15	4	13
+4 tầng mái ngói có khu phụ riêng	10	-	18	16	3	10
+4 tầng mái bằng không có khu phụ riêng	10	-	18	16	-	18
+4 tầng mái bằng có khu phụ riêng	10	-	18	16	-	14
+5 tầng mái bằng không có khu phụ riêng	10	-	18	17	-	16
+5 tầng mái bằng có khu phụ riêng
+II. NHÀ LẮP GHÉP	10	-	18	17	-	12
+2 tầng lắp ghép tấm lớn bằng bê-tông xi than	8	-	13	16	13	6
+4 tầng lắp ghép tấm lớn bằng bê-tông cốt thép dầy	8	-	15	16	13	8
+5 tầng lắp ghép tấm lớn bằng bê-tông cốt thép dầy	8	-	16	16	12	5
+5 tầng lắp ghép khung cột và tấm lớn kết hợp	8	8	12	16	12	5
+5 tần khung cột tường ngăn gạch
+III. NHÀ BIỆT THỰ	8	10	12	16	12	5
+Biệt thự 1 tầng mái ngói	8	-	20	17	7	8
+Biệt thự 1 tầng mái bằng	8	-	18	16	-	16
+Biệt thự 2 tầng mái ngói	8	-	20	16	3	6
+Biệt thự 2 tầng mái bằng	8	-	18	16	-	14
+4. Hệ số điều chỉnh giá trị sử dụng của nhà ở cũ thuộc tài sản công được quy định như sau:
+a) Hệ số điều chỉnh giá trị sử dụng của các loại nhà ở, trừ loại nhà ở quy định tại điểm b mục này được xác định như sau:
+- Tầng 1 và nhà 1 tầng áp dụng hệ số	1,2
+- Tầng 2 áp dụng hệ số:	1,1
+- Tầng 3 áp dụng hệ số:	1,0
+- Tầng 4 áp dụng hệ số:	0,9
+- Tầng 5 áp dụng hệ số:	0,8
+- Tầng 6 trở lên áp dụng hệ số:	0,7
+b) Hệ số điều chỉnh giá trị sử dụng đối với nhà ở nhiều tầng nhiều hộ ở cấu trúc kiểu căn hộ được xác định như sau:
+- Tầng 1 áp dụng hệ số:	1,0
+- Tầng 2 áp dụng hệ số:	0,8
+- Tầng 3 áp dụng hệ số:	0,7
+- Tầng 4 áp dụng hệ số:	0,6
+- Tầng 5 áp dụng hệ số:	0,5
+- Từ tầng 6 trở lên áp dụng hệ số:	0,4
+c) Hệ số phân bổ các tầng khi chuyển quyền sử dụng đất được xác định như sau:
+Nhà	Hệ số các tầng
+	Tầng 1	Tầng 2	Tầng 3	Tầng 4	Tầng 5	Tầng 6 trở lên
+2 tầng	0,7	0,3				
+3 tầng	0,7	0,2	0,1			
+4 tầng	0,7	0,15	0,1	0,05		
+5 tầng trở lên	0,7	0,15	0,08	0,05	0,02	0,0
+Đối với nhà ở riêng lẻ mà có diện tích tầng lửng thì áp dụng hệ số 0,7 để tính phân bổ cho các tầng khi xác định giá đất để chuyển quyền sử dụng cho người mua.
+Khi bán căn hộ chung cư cũ thuộc tài sản công có cấu trúc kiểu khép kín thì tiền sử dụng đất ở phân bổ cho từng căn hộ trong nhà chung cư đó áp dụng hệ số 1,4; không áp dụng hệ số này đối với nhà ở nhiều tầng nhiều hộ ở kiểu nhà phố.
+Bước 7: Tính miễn giảm tiền thuê nhà (Điều 67 – Nghị định 95 và Điều 100 – Nghị định 131/2021/NĐ-CP)
+Miễn giảm theo Điều 67 – Nghị định 95:
 1. Việc miễn, giảm tiền thuê nhà ở cũ thuộc tài sản công được thực hiện theo nguyên tắc sau đây:
 a) Người được miễn, giảm tiền thuê nhà ở phải là người có tên trong hợp đồng thuê nhà ở (bao gồm người đại diện đứng tên trong hợp đồng và các thành viên khác có tên trong hợp đồng thuê nhà);
 b) Việc miễn, giảm tiền thuê nhà ở chỉ xét một lần cho người thuê; trường hợp thuê nhiều nhà ở thuộc tài sản công thì chỉ được hưởng miễn, giảm tiền thuê đối với một nhà ở;
@@ -201,17 +301,34 @@ b) Hộ nghèo, cận nghèo theo quy định của pháp luật tại thời đ
 a) Trường hợp là người có công với cách mạng thì phải có giấy tờ chứng minh do cơ quan có thẩm quyền cấp theo quy định của pháp luật về ưu đãi người có công với cách mạng;
 b) Trường hợp là người khuyết tật hoặc người cao tuổi thì phải có giấy xác nhận của cơ quan có thẩm quyền theo quy định của pháp luật về người khuyết tật hoặc chính sách trợ giúp cho các đối tượng bảo trợ xã hội;
 c) Trường hợp là hộ gia đình nghèo, cận nghèo tại khu vực đô thị thì phải có giấy xác nhận của Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Ủy ban nhân dân cấp xã) nơi người đó đang thường trú hoặc đang tạm trú từ 01 năm trở lên.
+Miễn giảm theo Điều 100 – Nghị định 131/2021/NĐ-CP:
+1. Điều kiện, nguyên tắc hỗ trợ miễn, giảm tiền thuê nhà ở được thực hiện theo quy định của pháp luật về nhà ở.
+2. Đối tượng được miễn tiền thuê nhà ở
+a) Người hoạt động cách mạng trước ngày 01 tháng 01 năm 1945; Bà mẹ Việt Nam Anh hùng; Anh hùng Lực lượng vũ trang nhân dân, Anh hùng Lao động trong thời kỳ kháng chiến; thương binh, bao gồm cả thương binh loại B được công nhận trước ngày 31 tháng 12 năm 1993, người hưởng chính sách như thương binh, bệnh binh, người hoạt động kháng chiến bị nhiễm chất độc hóa học có tỷ lệ tổn thương cơ thể từ 81% trở lên; thân nhân liệt sĩ đang hưởng trợ cấp tuất nuôi dưỡng hàng tháng.
+b) Các đối tượng thuộc diện được giảm tiền thuê nhà ở quy định tại khoản 3 Điều này hiện đang sống cô đơn, không nơi nương tựa (có xác nhận của Ủy ban nhân dân cấp xã nơi có nhà ở thuê).
+3. Đối tượng và mức giảm tiền thuê nhà ở
+a) Giảm 90% tiền thuê nhà ở đối với các đối tượng: Người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945; thương binh, bao gồm cả thương binh loại B được công nhận trước ngày 31 tháng 12 năm 1993, người hưởng chính sách như thương binh, bệnh binh, người hoạt động kháng chiến bị nhiễm chất độc hóa học có tỷ lệ tổn thương cơ thể từ 61% đến 80%.
+b) Giảm 80% tiền thuê nhà ở đối với các đối tượng: Thương binh, bao gồm cả thương binh loại B được công nhận trước ngày 31 tháng 12 năm 1993, người hưởng chính sách như thương binh, bệnh binh, người hoạt động kháng chiến bị nhiễm chất độc hóa học có tỷ lệ tổn thương cơ thể từ 41% đến 60%.
+c) Giảm 70% tiền thuê nhà ở đối với các đối tượng:
+- Thương binh, bao gồm cả thương binh loại B được công nhận trước ngày 31 tháng 12 năm 1993, người hưởng chính sách như thương binh, bệnh binh, người hoạt động kháng chiến bị nhiễm chất độc hóa học có tỷ lệ tổn thương cơ thể từ 21% đến 40%.
+- Người hoạt động cách mạng, kháng chiến, bảo vệ Tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày.
+- Người được tặng hoặc người trong gia đình được tặng Kỷ niệm chương “Tổ quốc ghi công” hoặc Bằng “Có công với nước” trước cách mạng tháng Tám năm 1945, người được tặng hoặc người trong gia đình được tặng Huân chương kháng chiến.
+- Thân nhân liệt sĩ.
+d) Giảm 65% tiền thuê nhà ở đối với các đối tượng sau:
+- Người hoạt động kháng chiến giải phóng dân tộc, bảo vệ Tổ quốc, làm nghĩa vụ quốc tế.
+- Người được tặng hoặc người trong gia đình được tặng Huy chương kháng chiến.
 Bước 8: Tính truy thu tiền thuê nhà
 Trường hợp đã sử dụng nhà ở trước thời điểm ký kết hợp đồng thuê nhà ở hoặc có hợp đồng thuê nhà ở mà Nhà nước chưa thu tiền thuê nhà thì người thuê phải nộp truy thu tiền thuê nhà ở theo thời gian thực tế đã sử dụng nhà ở với giá thuê như sau: đối với thời gian sử dụng nhà ở trước ngày 19 tháng 01 năm 2007 thì thu tiền thuê nhà ở theo quy định tại Quyết định số 118/TTg ngày 27 tháng 11 năm 1992 của Thủ tướng Chính phủ về giá thuê nhà ở và đưa tiền nhà ở vào tiền lương; đối với thời gian sử dụng nhà ở từ sau ngày 19 tháng 01 năm 2007 thì thu tiền thuê nhà ở theo Quyết định số 17/2008/QĐ-TT ngày 28 tháng 01 năm 2008 của Thủ tướng Chính phủ về việc ban hành giá chuẩn cho thuê nhà ở thuộc sở hữu nhà nước chưa được cải tạo, xây dựng lại, theo quy định của Nghị định 95 (Điểm c khoản 2 ND 95)
 ✔	Trước 19/01/2007: Tính giá thuê theo Quyết định 1753/QĐ-UB-QLĐT ngày 23 tháng 11 năm 1993.
 ✔	Từ 20/01/2007 đến 11/7/2018: Tính giá thuê theo Quyết định 09/2010/QĐ-UBND ngày 03 tháng 02 năm 2010
-✔	Từ 12/7/2018 đến 30/6/2019: Tính giá thuê theo 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018, KTLCB = 2.57
-✔	Từ 12/7/2018 đến 30/9/2022: Tính giá thuê theo 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018, KTLCB = 2.57 (30/9/2022 là thời điểm Trung tâm thống nhất trên biên bản chốt số liệu)
-✔	Từ 01/10/2022 đến 30/6/2023: Tính giá thuê theo 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018, KTLCB = 2.76
-✔	Từ 01/7/2023 đến 30/6/2024: Tính giá thuê theo 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018, KTLCB = 3.33
-✔	Từ 01/7/2024 đến nay: Tính giá thuê theo 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018, KTLCB = 4.33
+✔	Từ 12/7/2018 đến 30/6/2019: Tính giá thuê theo Quyết định 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018, KTLCB = 2.57
+✔	Từ 12/7/2018 đến 30/9/2022: Tính giá thuê theo Quyết định 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018, KTLCB = 2.57 (30/9/2022 là thời điểm Trung tâm thống nhất trên biên bản chốt số liệu)
+✔	Từ 01/10/2022 đến 30/6/2023: Tính giá thuê theo Quyết định 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018, KTLCB = 2.76
+✔	Từ 01/7/2023 đến 30/6/2024: Tính giá thuê theo Quyết định 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018, KTLCB = 3.33
+✔	Từ 01/7/2024 đến nay: Tính giá thuê theo Quyết định 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018, KTLCB = 4.33
 8.1. Giá thuê nhà ở theo Quyết định 22/2018/QĐ-UBND ngày 02 tháng 7 năm 2018 (hiệu lực từ ngày 12/7/2018)
-GIÁ THUÊ NHÀ = GIÁ CHUẨN (QĐ 22) x KTLCB x KTĐBT x (1+ K1 + K2 + K3) x DIỆN TÍCH NHÀ
+ĐƠN GIÁ CHO THUÊ 1M2 DIỆN TÍCH SỬ DỤNG NHÀ Ở = GIÁ CHUẨN (Quyết định 22) x (1+ K1 + K2 + K3) x KTLCB x KTĐBT (ĐỒNG/M2 SỬ DỤNG/THÁNG)
+TIỀN THUÊ NHÀ PHẢI TRẢ HÀNG THÁNG = ĐƠN GIÁ CHO THUÊ 1M2 DIỆN TÍCH SỬ DỤNG NHÀ Ở x DIỆN TÍCH SỬ DỤNG NHÀ
 -	Giá chuẩn (QĐ22) theo bảng bên dưới:
 Loại nhà	Biệt thự (hạng)	Nhà ở thông thường (cấp)
 Cấp, hạng nhà	I	II	III	IV	I	II	III	IV
@@ -263,7 +380,7 @@ a) Điều kiện hạ tầng kỹ thuật đạt loại tốt khi đảm bảo 
 - Điều kiện 3: có hệ thống cấp thoát nước hoạt động bình thường.
 b) Điều kiện hạ tầng kỹ thuật đạt loại trung bình khi chỉ đảm bảo điều kiện 1 hoặc có đủ điều kiện 2 và 3.
 c) Điều kiện hạ tầng kỹ thuật đạt loại kém khi nhà ở chỉ có điều kiện 2 hoặc điều kiện 3 hoặc không đảm bảo cả 03 điều kiện trên.
-Lưu ý đối với trường hợp biệt thự (Điều 5 QĐ 22):					
+Lưu ý đối với trường hợp biệt thự (Điều 5 Quyết định 22):					
 1. Nhà phụ độc lập: hộ sử dụng ký hợp đồng thuê nhà độc lập, giá thuê tính theo giá nhà ở thông thường.								
 2. Nhà chính biệt thự: các hộ sử dụng căn cứ hợp đồng thuê nhà được ký, giá thuê được tính như sau:								
 a) Trường hợp 1 hộ sử dụng độc lập: áp dụng nguyên giá thuê nhà biệt thự theo hạng tương ứng.					
@@ -272,15 +389,37 @@ c) Trường hợp 3 đến 5 hộ sử dụng: giảm 20% giá thuê nhà biệ
 d) Trường hợp 6 đến 8 hộ sử dụng: giảm 30% giá thuê nhà biệt thự theo hạng tương ứng.				
 đ) Trường hợp 9 hộ sử dụng trở lên: giảm 40% giá thuê nhà biệt thự theo hạng tương ứng.				
 8.2. Giá thuê nhà ở theo Quyết định 1753/QĐ-UB-QLĐT ngày 23 tháng 11 năm 1993
-GIÁ THUÊ NHÀ = GIÁ CHUẨN (QĐ1753) x (1+ K1 + K2 + K3) x DIỆN TÍCH NHÀ
+GIÁ THUÊ NHÀ = GIÁ CHUẨN (Quyết định 1753) x (1+ K1 + K2 + K3) x DIỆN TÍCH NHÀ
 8.2.1. Bảng giá chuẩn
 Đơn vị tính : đồng/m2 sử dụng/tháng. 
 Biệt thự (hạng)	Nhà ở thông thường (cấp)
 I	II	III	IV	I	II	III	IV
 2.500	3.000	3.500	5.500	1.500	1.400	1.350	900
-- Hạng biệt thự và cấp nhà ở thông thường, được xác định theo phụ lục số 1 của Thông tư 01/TT-LB Liên Bộ Xây dựng - Tài chánh.
+- Hạng biệt thự và cấp nhà ở thông thường, được xác định theo phụ lục số 1 của Thông tư 01/TT-LB Liên Bộ Xây dựng - Tài chánh:
+CẤP NHÀ:
+Cấp nhà 	Chất lượng sử dụng 	Chất lượng xây dựng công trình
+ 	 	Độ bền vững 	Độ chịu lửa 
+Cấp I 	Bậc I: Chất lượng sử dụng cao	Bậc I: niên hạn sử dụng trên 100 năm 	Bậc I hoặc bậc II
+Cấp II 	Bậc II : Chất lượng sử dụng khá 	Bậc II: niên hạn sử trên 50 năm 	Bậc III
+Cấp III 	Bậc III: Chất lượng sử dụng trung bình 	Bậc III: niên hạn sử dụng trên 20 năm	Bậc IV
+Cấp IV 	Bậc IV: Chất lượng sử dụng thấp 	Bậc IV: niên hạn sử dụng dưới 20 năm	Bậc V
+Ghi chú:
+1. Các bậc chịu lửa áp dụng theo TCVN 2022-78 phòng chữa cháy cho nhà và công trình.
+2. Chất lượng sử dụng tạm thời được xét theo mức độ hoàn thiện như sau:
+Bậc I: Đầy đủ, phần lớn bằng hàng cao cấp, cửa bằng gỗ tốt.
+Bậc II: Đầy đủ, thiết bị vệ sinh và cửa bằng vật liệu tốt.
+Bậc III: Chưa đầy đủ, đều là vật liệu thông thường.
+Bậc IV: Không đầy đủ, đều là vật liệu thông thường và cấp thấp.
+HẠNG BIỆT THỰ:
+Là ngôi nhà ở riêng biệt, có sân, có vườn, có hàng rào, xây bằng gạch ngói hay bê tông cốt thép, kiến trúc mỹ thuật, tiện nghi sinh hoạt đầy đủ, mỗi tầng có ít nhất 2 phòng để ở quay ra mặt sân hay ra vườn (không kể phòng tiếp khách và phòng ăn riêng). Biệt thự phân ra 4 hạng:
+a) Hạng 1: Biệt thự giáp tường.
+b) Hạng 2: Biệt thự song đôi.
+c) Hạng 3: Biệt thự riêng biệt.
+d) Hạng 4: Biệt thự sang trọng riêng biệt.
+Phân loại các biệt thự là căn cứ vào mức độ sử dụng vật liệu xây dựng đắt tiền, sân vườn rộng hay hẹp, mức độ trang trí tiện nghi sinh hoạt và cách bố trí phòng tắm rửa, vệ sinh; hạng 1 có thể mỗi tầng có 1 phòng tắm rửa vệ sinh và hạng 4 cứ mỗi phòng ở có 1 phòng tắm rửa vệ sinh riêng. 
+CÁCH XÁC ĐỊNH GIÁ THUÊ NHÀ BIỆT THỰ
 - Nhà biệt thự sử dụng cho nhiều hộ gia đình, giá thuê được tính như sau : 
-+ Nhà phụ độc lập : hộ sử dụng ký hợp đồng thuê nhà độc lập, giá thuê tính theo giá nhà ở thông thường. 
++ Nhà phụ độc lập: hộ sử dụng ký hợp đồng thuê nhà độc lập, giá thuê tính theo giá nhà ở thông thường. 
 + Nhà chính biệt thự : các hộ sử dụng căn cứ hợp đồng thuê nhà được ký, giá thuê được tính như sau : 
 - Trường hợp 1 hợp đồng độc lập : áp dụng nguyên giá thuê nhà biệt thự theo hạng tương ứng. 
 - Trường hợp 2 hợp đồng : giảm 10% giá thuê nhà biệt thự theo hạng tương ứng. 
@@ -307,7 +446,7 @@ Căn cứ vào điều kiện giao thông không phân biệt nhà mặt tiền 
 - Có đường ô tô đến tận ngôi nhà : Lòng đường hay lòng hẻm lớn hơn 4m. 
 * Các dấu (+) (-) trước các hệ số chỉ phần tăng thêm và giảm đi. 
 8.3. Giá thuê nhà ở theo Quyết định 09/2010/QĐ-UBND ngày 03 tháng 02 năm 2010
-GIÁ THUÊ NHÀ = GIÁ CHUẨN (QĐ09) x (1+ K1 + K2 + K3+K4) x DIỆN TÍCH NHÀ
+GIÁ THUÊ NHÀ = GIÁ CHUẨN (Quyết định 09) x (1+ K1 + K2 + K3+K4) x DIỆN TÍCH NHÀ
 8.3.1. Bảng giá chuẩn
 Loại nhà	Biệt thự (hạng)	Nhà ở thông thường (cấp)
 Cấp, hạng nhà	I	II	III	IV	I	II	III	IV
@@ -354,6 +493,4 @@ Trường hợp hộ sử dụng tiết kiệm một phần diện tích khuôn 
 1. Hộ sử dụng tiết kiệm một phần diện tích khuôn viên hoặc một phần diện tích sử dụng để tự kinh doanh hoặc cho thuê lại phải được sự đồng ý bằng văn bản của cơ quan quản lý nhà.
 2. Trường hợp có sự ngăn chia riêng biệt: Mức giá thuê điều tiết bằng tiền thuê nhà ở cộng tiền thuê đất bằng 0,2% đơn giá đất do Ủy ban nhân dân thành phố quy định hàng năm đối với phần diện tích cho thuê lại. 
 3. Trường hợp không có sự ngăn chia riêng biệt, không xác định được diện tích tự kinh doanh hoặc cho thuê lại: Mức giá thuê điều tiết bằng tiền thuê nhà ở cộng tiền thuê đất, được tính bằng 0,15% đơn giá đất do Ủy ban nhân dân thành phố quy định hàng năm đối với toàn bộ diện tích khuôn viên.
-
-
 
